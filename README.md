@@ -1,4 +1,4 @@
-# Minecraft-emerald-items
+# Emerald Items Mod
 
 ## Requirements
 - Minecraft 1.16.5 ([Download Minecraft](https://www.minecraft.net/en-us))
